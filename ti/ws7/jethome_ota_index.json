@@ -5,7 +5,7 @@
         "manufacturerCode": 61731,
         "imageType": 61441,
         "sha512": "961e556a74198f33e08e9958932e4d883a09de41f60017b06b523c689ead66f6654737b386ae5acde1f1ec9ea17d204442d02f6f9656ba97363564c1a63fd434",
-        "url": "https://github.com/jethome-ru/zigbee-firmware/raw/master/ti/ws7/ota/ws7_20231124_f123_f001_0000000c.zigbee",
+        "url": "https://github.com/adeepn/zigbee-firmware/raw/test_update/ti/ws7/ota/ws7_20231124_f123_f001_0000000c.zigbee",
         "path": "ota/ws7_20231124_f123_f001_0000000c.zigbee"
     }
 ]
